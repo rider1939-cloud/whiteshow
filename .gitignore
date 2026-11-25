@@ -1,0 +1,18 @@
+# 系统和编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 服务器特定文件
+.user.ini
+.well-known/
+
+# 备份文件
+*.zip
+*.tar.gz
+*.bak
+*.backup
+
+# 日志
+*.log
